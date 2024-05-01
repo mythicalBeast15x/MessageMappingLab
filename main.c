@@ -1,3 +1,8 @@
+/*------------------------------------------------------------------
+ *                  CMPSC 472  Final Lab                           |
+ *     Create a messaging map that can efficiently store messages  |
+ *                  Love-Divine Onwulata                           |
+ * ---------------------------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
